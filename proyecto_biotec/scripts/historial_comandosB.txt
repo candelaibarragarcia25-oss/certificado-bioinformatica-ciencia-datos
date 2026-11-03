@@ -1,0 +1,22 @@
+17 cd ~~
+18 mkdir proyecto_biotec
+19 cd proyecto_biotec
+20 mkdir -p datos_crudos datos_procesados scripts resultados documentacion
+21 cd/home/fcb_alumno08
+22 ls-R /home/fcb_alumno08/proyecto_biotec
+23 cd proyecto_biotec
+24 cd resultados
+25 touch mis_resultados_finales.txt
+26 touch mis\resultados\finales.txt
+27 rm mis\resultados\finales.txt
+28 cd../datos_crudos
+29 touch notas.txt
+30 cd../datos_procesados
+31 touch procesar.sh
+32 cd../scripts
+33 touch analisis.sh
+34 cd../documentacion
+35 touch resumen.txt
+36 cat > resumenTEMA1.txt
+37 cd../scripts
+38 history > historial_comandos_B.txt

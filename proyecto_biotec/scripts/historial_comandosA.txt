@@ -1,0 +1,17 @@
+1 whoami
+2 pwd
+3 ls
+4 cd fcb_material_practica1
+5 ls -lah
+6 ls -a
+7 ls -lh
+8 ls -lhS
+9 cd analisi_previos
+10 ls -lhS
+11 cd ..
+12 cat README.txt
+13 man ls
+14 history
+15 cd ~
+16 history > historial_comandosA.txt
+

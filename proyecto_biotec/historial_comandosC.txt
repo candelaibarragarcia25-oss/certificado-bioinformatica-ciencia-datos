@@ -1,0 +1,21 @@
+35 cd ~
+36 cp-r fbc_material_practica1 proyecto_biotec/datos_crudos/
+37 ls proyecto_biotec/datos_crudos/
+38 cd proyecto_biotec/datos_crudos/fcb_material_practica1
+39 pwd
+40 ls 
+41 cat datos_mustras.txt
+42 head-n 5 datos_mustras.txt
+43 tail-n 5 datos_mustras.txt
+44 man wc
+45 wc -l datos_mustras.txt
+46 grep -c control datos_muestras.txt
+47 grep Escherichia_coli datos_muestras.txt
+48 grep -c Escherichia_coli datos_muestras.txt
+49 grep -c´^>´ secuencias_DNA.fasta
+50 cd ~/proyecto_biotec
+51 mkdir temp_borrar
+52 touch temp_borrar/prueba.txt
+53 rmdir temp_borrar
+54 rm -r temp_borrar
+55 history 
